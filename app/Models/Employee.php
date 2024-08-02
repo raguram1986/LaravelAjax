@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Model;
 
 class Employee extends Model
 {
-
+    //dfdsfsdfsdf
     protected $table = 'employees';
     protected $primaryKey = 'id';
      protected $fillable = [
