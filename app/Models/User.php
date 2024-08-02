@@ -16,6 +16,8 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
+
+     //my project raja
     protected $fillable = [
         'name',
         'email',
